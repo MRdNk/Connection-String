@@ -1,0 +1,22 @@
+{
+  "name": "connection-strings",
+  "version": "0.0.1",
+  "description": ".NET style ConnectionStrings for Node - using Tedious",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MRdNk/Connection-String.git"
+  },
+  "keywords": [
+    "ConnectionString",
+    "Tedious",
+    "TDS"
+  ],
+  "author": "mrdnk",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "4f528b7dca9d30e717ddca4c52ff870cd72cebe1"
+}
